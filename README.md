@@ -1,4 +1,6 @@
-__This is a EFI for my own pc, use with your own risk.__
+* __This is a EFI for my own pc, use with your own risk.__
+* __Generate Serial No. for yourself before use it.__
+
 
 ## Hardware
 * Motherboard: Gigabyte Z370 AORUS Ultra Gaming (Rev 1.0)
