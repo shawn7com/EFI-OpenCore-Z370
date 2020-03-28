@@ -1,6 +1,6 @@
 * __This is a EFI for my own pc, use with your own risk.__
-* __Generate Serial No. for yourself before use it.__
-
+* __Generate new SMBIOS(Serial No.) for yourself before use it.__
+* Ref: [OpenCore Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
 
 ## Hardware
 * Motherboard: Gigabyte Z370 AORUS Ultra Gaming (Rev 1.0)
