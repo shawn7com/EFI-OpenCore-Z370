@@ -22,8 +22,8 @@
 
 
 ## Build Logs
-1. [v0.0.1] - 01.24.2020
-2. [v0.0.2] - 03.28.2020 
+-  [v0.0.1] - 01.24.2020
+- [v0.0.2] - 03.28.2020 
 
 > * macOS Catalina 10.15.4
 > * OpenCore v0.5.6
@@ -35,7 +35,13 @@
 > * VirtualSMC v1.1.1
 > * WhateverGreen v1.3.7
 > * IntelMausiEthernet v2.5.0
+
+- [v0.1.0] - 04.19.2020
+
+> * add ACPI patch
+> * do USB map (without USB3.1 port & USB Type-C port 
 	
 
 ## Tools
 * OpenCore Configurator
+* [Hackintool](https://github.com/headkaze/Hackintool)
